@@ -1,5 +1,11 @@
 # Data-Visualisation
 This repository contains the simple data visualisation I created using D3 library
+
+Read the distribution license at the top of the code in D3-Bubble-Graph.js
+
+This is my university's (Universiti Malaysia Sarawak) project, only to serve as an example. You MUST KNOW that I am not a D3 pro.
+I'm just experimenting with the new thing k... :D
+
 /* --> I'm really lazy to write my own license, so hence I copy from internet and modified it abit.
       This is the link I visited to copy the  license --> http://dbad-license.org/
       Please don't get irritated by it ;-)
