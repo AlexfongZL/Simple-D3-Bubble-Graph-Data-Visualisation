@@ -42,10 +42,6 @@ These are the questions that I asked in stackOverflow to finish this work:
 5) https://stackoverflow.com/questions/53167400/error-in-showing-min-and-max-result-in-d3
 6) https://stackoverflow.com/questions/53235795/jquery-cant-run-in-html-in-xampp-localhost
 
-  -------------------------------------------
-  |  I BELIEVE YOU WILL GIVE US FULL MARKS! |
-  -------------------------------------------
-
 */
 
 (function() {
