@@ -3,7 +3,9 @@ This repository contains the simple data visualisation I created using D3 librar
 
 Read the distribution license at the top of the code in D3-Bubble-Graph.js
 
-This is part of my university's (![Universiti Malaysia Sarawak](/UNIMAS.jpg?raw=true "Unimas")) project, only to serve as an example. You MUST KNOW that I am not a D3 pro.
+![Universiti Malaysia Sarawak](/UNIMAS.jpg?raw=true "Unimas")
+
+This is part of my university's (Universiti Malaysia Sarawak) project, only to serve as an example. You MUST KNOW that I am not a D3 pro.
 I'm just experimenting with the new thing k... :D
 
 /* --> I'm really lazy to write my own license, so hence I copy from internet and modified it abit.
@@ -14,7 +16,7 @@ I'm just experimenting with the new thing k... :D
 
 > Version 3 (final), November 12, 2018
 
-> Copyright (C) [2018] [Alex Fong et. al]
+> Copyright (C) [2018] [Alex Fox et. al]
 
 Everyone is permitted to copy and distribute verbatim or modified
 copies of this license document.
